@@ -6,6 +6,7 @@
 ### Test script.
 
 Replace private key content in `golang/decrypt/decrypt.go` and `php/paper.key`
+
 Repalce `<paper encrypt data>` in `golang/test/test.go` and `php/decrypt.php`
 
 - Go lang
