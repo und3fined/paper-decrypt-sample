@@ -1,5 +1,4 @@
 # Paper decrypt data sample
-----------------------------
 
 ### This is sample code. Please don't use in Production.
 
